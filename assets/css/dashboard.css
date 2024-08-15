@@ -1,0 +1,12 @@
+  .block-head span:first-child { margin-right: 20px;}
+  .block-head span {font-size: 15px;}
+  .first-block-head h4{display: inline;}
+  .first-block-head h4 i {font-size: 16px;}
+
+  .dashstyle1{border-radius: 4.27px 0 0 4.27px !important}
+  .dashstyle2{min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;}
+  .dashstyle3{border-radius:10px;}
+  .dashstyle4{min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;}
+  .dashstyle5{border-radius:10px;}
+  .dashstyle6{min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;}
+  .dashstyle7{min-height: 450px;}

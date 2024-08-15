@@ -1,0 +1,21 @@
+#bot_token{
+    min-width: 280px;
+}
+@media (min-width: 992px) and (max-width: 1399px){
+    #bot_token{
+        min-width: 300px;
+    }
+}
+@media (min-width: 1400px){
+    #bot_token{
+        min-width: 350px;
+    }
+}
+.bot-item .icon-mid img{
+    margin-top:-10px !important;
+}
+.bot-item .card-icon-container{
+    font-size: 100px;
+    top: -45px;
+    right: -30px;
+}

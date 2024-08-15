@@ -1,0 +1,34 @@
+// Dropdown Sidebar Menu
+let sidebarItems = document.querySelectorAll('.sidebar-item.has-sub');
+for(var i = 0; i < sidebarItems.length; i++) {
+    let sidebarItem = sidebarItems[i];
+    sidebarItems[i].querySelector('.sidebar-link').addEventListener('click', function(e) {
+        e.preventDefault();
+
+        let submenu = sidebarItem.querySelector('.submenu');
+
+        if(submenu.classList.contains('active')) submenu.classList.remove('active');
+        else submenu.classList.add('active');
+    })
+}
+
+// Navbar Toggler
+let sidebarToggler = document.querySelectorAll(".sidebar-toggler");
+for (var i = 0; i < sidebarToggler.length; i++) {
+    let toggler = sidebarToggler[i];
+    toggler.addEventListener('click', () => {
+        let sidebar = document.getElementById('sidebar');
+        if(sidebar.classList.contains('active')) sidebar.classList.remove('active');
+        else sidebar.classList.add('active');
+    });
+}
+
+window.onload = function() {
+
+    var w = window.innerWidth;
+    if(w < 768) {
+        document.getElementById('sidebar').classList.remove('active');
+    }
+}
+
+feather.replace();

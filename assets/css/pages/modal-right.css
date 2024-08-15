@@ -1,0 +1,12 @@
+@media screen and (min-width: 1400px) {
+    .modal-dialog {
+        margin-right: 0 !important;
+        margin-top: 0 !important;
+        height: 100%;
+    }
+    .modal-content {
+        height: auto;
+        min-height: 100%;
+        border-radius: 0;
+    }
+}

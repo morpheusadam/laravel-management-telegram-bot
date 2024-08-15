@@ -1,0 +1,7 @@
+
+.form-group label{
+    text-transform: capitalize;
+}
+.card .card-title {
+    font-size: .7rem; 
+}

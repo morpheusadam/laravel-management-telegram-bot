@@ -1,0 +1,94 @@
+.dashboard-btn {
+    color: var(--text-white);
+    background-color: var(--purple);
+    font-size: 16px;
+    height: 45px;
+    padding: 9px 40px;
+    border-radius: 25px;
+    margin-left: 20px;
+    position: relative;
+}
+
+.dashboard-btn::before, 
+.dashboard-btn::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 42px;
+    z-index: -1;
+}
+.dashboard-btn::before {
+    animation: pulse-blue-medium-sm 3.5s infinite
+}
+
+.dashboard-btn::after  {
+    animation: pulse-blue-small-sm 3.5s infinite
+}
+
+.features_section .features_inner .feature_box .image i {
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    font-size: 60px;
+}
+.features_section .features_inner .feature_box .front-icon i {
+    border-radius: 12px 12px 0 0;
+    max-width: 100%;
+    font-size: 40px !important;
+}
+.abt_side {
+  max-width: 360px;
+}
+
+.front-end-generate {
+    color: var(--purple);
+    font-weight: 700;
+}
+.page_wrapper{
+  overflow: hidden;
+}
+label{
+  font-size:smaller;
+  color: black;
+}
+
+.dropzone {
+    border: 2px dashed #6777ef !important;
+    text-align: center !important; 
+}
+.dropzone .dz-message {
+    font-size: 24px !important;
+    color: #34395e !important;
+}
+.dropzone .dz-preview .dz-details {
+    padding: 2.2em 1em !important; 
+}
+.dropzone .dz-preview .dz-image {
+    border-radius: 3px !important; 
+}
+
+.select2-container .select2-selection--single{min-height:3.175rem !important;padding-top: 0.7rem !important;}
+.select2-container .select2-selection--single .select2-selection__arrow{top:12px !important;right:5px !important;}
+.select2-container .select2-selection--single .select2-search__field, .select2-container--default .select2-selection--single{padding-left: 10px !important;}
+.select2-container .select2-selection--multiple{min-height: 52px !important;border-color:#dfe3e7 !important;}
+.select2-container--default .select2-selection--multiple .select2-selection__choice{line-height: 2.3rem;margin-top: 5PX !important;background: #fff !important;}
+.select2-container--default .select2-selection--multiple .select2-selection__choice,.select2-container--default .select2-selection--multiple .select2-selection__choice .select2-selection__choice__remove{color: inherit;}
+.select2-dropdown{z-index:1100 !important}
+
+#frontend-search-page{
+    font-family: "Manrope", sans-serif !important;
+    max-width: 95% !important;
+}
+
+#frontend-search-page .select2{
+    font-size: 14px !important;
+}
+
+#frontend-search-page .form-control-lg,#frontend-search-page #generate{
+    font-size: 14px !important;
+    height: 50px !important;
+}

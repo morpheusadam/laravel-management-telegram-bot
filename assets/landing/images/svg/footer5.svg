@@ -1,0 +1,133 @@
+            <svg
+              width="142"
+              height="73"
+              viewBox="0 0 142 73"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M97.5778 80C97.5778 35.8054 61.7615 -5.42825e-06 17.5778 -3.49691e-06C-26.606 -1.56558e-06 -62.4222 35.8054 -62.4222 80C-62.4222 124.173 -26.606 160 17.5778 160C61.7615 160 97.5778 124.173 97.5778 80Z"
+                fill="url(#paint0_radial_106_149)"
+              />
+              <circle
+                cx="103.496"
+                cy="55.2326"
+                r="1.84993"
+                transform="rotate(-150.952 103.496 55.2326)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="95.5911"
+                cy="69.464"
+                r="1.84993"
+                transform="rotate(-150.952 95.5911 69.464)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="111.22"
+                cy="41.3244"
+                r="1.84993"
+                transform="rotate(-150.952 111.22 41.3244)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="73.6349"
+                cy="75.4679"
+                r="1.84993"
+                transform="rotate(-150.952 73.6349 75.4679)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="131.636"
+                cy="70.862"
+                r="1.84993"
+                transform="rotate(-150.952 131.636 70.862)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="89.2642"
+                cy="47.3283"
+                r="1.84993"
+                transform="rotate(-150.952 89.2642 47.3283)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="81.3598"
+                cy="61.5597"
+                r="1.84993"
+                transform="rotate(-150.952 81.3598 61.5597)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="139.36"
+                cy="56.9538"
+                r="1.84993"
+                transform="rotate(-150.952 139.36 56.9538)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="96.9888"
+                cy="33.4196"
+                r="1.84993"
+                transform="rotate(-150.952 96.9888 33.4196)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="59.4034"
+                cy="67.5636"
+                r="1.84993"
+                transform="rotate(-150.952 59.4034 67.5636)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="117.404"
+                cy="62.9572"
+                r="1.84993"
+                transform="rotate(-150.952 117.404 62.9572)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="75.0325"
+                cy="39.4235"
+                r="1.84993"
+                transform="rotate(-150.952 75.0325 39.4235)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="67.1284"
+                cy="53.6554"
+                r="1.84993"
+                transform="rotate(-150.952 67.1284 53.6554)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="125.129"
+                cy="49.049"
+                r="1.84993"
+                transform="rotate(-150.952 125.129 49.049)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="82.7576"
+                cy="25.5158"
+                r="1.84993"
+                transform="rotate(-150.952 82.7576 25.5158)"
+                fill="#8B5CF6"
+              />
+              <defs>
+                <radialGradient
+                  id="paint0_radial_106_149"
+                  cx="0"
+                  cy="0"
+                  r="1"
+                  gradientUnits="userSpaceOnUse"
+                  gradientTransform="translate(-62.4222 80) scale(160)"
+                >
+                  <stop stop-color="#FFEEFE" />
+                  <stop offset="0.569" stop-color="#FFEEFE" />
+                  <stop offset="0.993" stop-color="#F1C6EF" />
+                </radialGradient>
+              </defs>
+            </svg>

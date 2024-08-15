@@ -1,0 +1,203 @@
+          <svg
+            width="126"
+            height="156"
+            viewBox="0 0 126 156"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M62.9999 126C97.8032 126 126 97.7947 126 63C126 28.2053 97.8032 0 62.9999 0C28.2137 0 -6.10352e-05 28.2053 -6.10352e-05 63C-6.10352e-05 97.7947 28.2137 126 62.9999 126Z"
+              fill="url(#paint0_radial_100_549)"
+            />
+            <circle
+              cx="45.3482"
+              cy="119.68"
+              r="1.72625"
+              transform="rotate(-120 45.3482 119.68)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="71.3609"
+              cy="104.662"
+              r="1.72625"
+              transform="rotate(-120 71.3609 104.662)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="32.7905"
+              cy="126.931"
+              r="1.72625"
+              transform="rotate(-120 32.7905 126.931)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="58.2051"
+              cy="112.258"
+              r="1.72625"
+              transform="rotate(-120 58.2051 112.258)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="84.2176"
+              cy="97.2391"
+              r="1.72625"
+              transform="rotate(-120 84.2176 97.2391)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="60.3668"
+              cy="145.693"
+              r="1.72625"
+              transform="rotate(-120 60.3668 145.693)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="37.7528"
+              cy="106.525"
+              r="1.72625"
+              transform="rotate(-120 37.7528 106.525)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="86.3793"
+              cy="130.675"
+              r="1.72625"
+              transform="rotate(-120 86.3793 130.675)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="63.7654"
+              cy="91.5066"
+              r="1.72625"
+              transform="rotate(-120 63.7654 91.5066)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="47.809"
+              cy="152.944"
+              r="1.72625"
+              transform="rotate(-120 47.809 152.944)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="25.195"
+              cy="113.775"
+              r="1.72625"
+              transform="rotate(-120 25.195 113.775)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="73.2235"
+              cy="138.27"
+              r="1.72625"
+              transform="rotate(-120 73.2235 138.27)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="50.6096"
+              cy="99.1019"
+              r="1.72625"
+              transform="rotate(-120 50.6096 99.1019)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="99.2361"
+              cy="123.252"
+              r="1.72625"
+              transform="rotate(-120 99.2361 123.252)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="76.6221"
+              cy="84.0833"
+              r="1.72625"
+              transform="rotate(-120 76.6221 84.0833)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="52.7713"
+              cy="132.537"
+              r="1.72625"
+              transform="rotate(-120 52.7713 132.537)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="30.1573"
+              cy="93.3689"
+              r="1.72625"
+              transform="rotate(-120 30.1573 93.3689)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="78.7839"
+              cy="117.519"
+              r="1.72625"
+              transform="rotate(-120 78.7839 117.519)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="56.17"
+              cy="78.3504"
+              r="1.72625"
+              transform="rotate(-120 56.17 78.3504)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="40.2136"
+              cy="139.788"
+              r="1.72625"
+              transform="rotate(-120 40.2136 139.788)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="17.5996"
+              cy="100.619"
+              r="1.72625"
+              transform="rotate(-120 17.5996 100.619)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="65.6281"
+              cy="125.115"
+              r="1.72625"
+              transform="rotate(-120 65.6281 125.115)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="43.0141"
+              cy="85.9466"
+              r="1.72625"
+              transform="rotate(-120 43.0141 85.9466)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="91.6406"
+              cy="110.096"
+              r="1.72625"
+              transform="rotate(-120 91.6406 110.096)"
+              fill="#8B5CF6"
+            />
+            <circle
+              cx="69.0267"
+              cy="70.9275"
+              r="1.72625"
+              transform="rotate(-120 69.0267 70.9275)"
+              fill="#8B5CF6"
+            />
+            <defs>
+              <radialGradient
+                id="paint0_radial_100_549"
+                cx="0"
+                cy="0"
+                r="1"
+                gradientUnits="userSpaceOnUse"
+                gradientTransform="translate(62.9999) rotate(90) scale(126)"
+              >
+                <stop stop-color="white" />
+                <stop offset="0.569" stop-color="#E4F2FE" />
+                <stop offset="0.993" stop-color="#D2E2EF" />
+              </radialGradient>
+            </defs>
+          </svg>

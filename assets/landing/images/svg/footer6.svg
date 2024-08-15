@@ -1,0 +1,126 @@
+            <svg
+              width="120"
+              height="75"
+              viewBox="0 0 120 75"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M103 75C137.804 75 166 46.7947 166 12C166 -22.7947 137.804 -51 103 -51C68.2141 -51 40.0003 -22.7947 40.0003 12C40.0003 46.7947 68.2141 75 103 75Z"
+                fill="url(#paint0_radial_106_293)"
+              />
+              <circle
+                cx="32.5072"
+                cy="32.5491"
+                r="1.84993"
+                transform="rotate(-157.548 32.5072 32.5491)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="38.7245"
+                cy="17.5037"
+                r="1.84993"
+                transform="rotate(-157.548 38.7245 17.5037)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="44.9415"
+                cy="2.4583"
+                r="1.84993"
+                transform="rotate(-157.548 44.9415 2.4583)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="62.2536"
+                cy="44.8406"
+                r="1.84993"
+                transform="rotate(-157.548 62.2536 44.8406)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="17.4619"
+                cy="26.3323"
+                r="1.84993"
+                transform="rotate(-157.548 17.4619 26.3323)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="68.4737"
+                cy="29.7972"
+                r="1.84993"
+                transform="rotate(-157.548 68.4737 29.7972)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="23.6791"
+                cy="11.2869"
+                r="1.84993"
+                transform="rotate(-157.548 23.6791 11.2869)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="74.6905"
+                cy="14.7513"
+                r="1.84993"
+                transform="rotate(-157.548 74.6905 14.7513)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="80.908"
+                cy="-0.293648"
+                r="1.84993"
+                transform="rotate(-157.548 80.908 -0.293648)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="47.2109"
+                cy="38.6253"
+                r="1.84993"
+                transform="rotate(-157.548 47.2109 38.6253)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="2.41638"
+                cy="20.115"
+                r="1.84993"
+                transform="rotate(-157.548 2.41638 20.115)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="53.4277"
+                cy="23.5794"
+                r="1.84993"
+                transform="rotate(-157.548 53.4277 23.5794)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="8.63378"
+                cy="5.06963"
+                r="1.84993"
+                transform="rotate(-157.548 8.63378 5.06963)"
+                fill="#8B5CF6"
+              />
+              <circle
+                cx="59.6451"
+                cy="8.53448"
+                r="1.84993"
+                transform="rotate(-157.548 59.6451 8.53448)"
+                fill="#8B5CF6"
+              />
+              <defs>
+                <radialGradient
+                  id="paint0_radial_106_293"
+                  cx="0"
+                  cy="0"
+                  r="1"
+                  gradientUnits="userSpaceOnUse"
+                  gradientTransform="translate(103 -51) rotate(90) scale(126)"
+                >
+                  <stop stop-color="white" />
+                  <stop offset="0.569" stop-color="#E4F2FE" />
+                  <stop offset="0.993" stop-color="#D2E2EF" />
+                </radialGradient>
+              </defs>
+            </svg>

@@ -1,0 +1,34 @@
+nav.header {
+	background: #27367F !important;
+}
+
+nav a:hover { color: #FFFFFF !important;text-decoration: none !important; }
+.btn-primary { background: #27367F;border-color: #27367F !important; }
+.btn-primary:hover { background: #27367F;border-color: #27367F !important; }
+
+.panel .panel-header {
+	font-weight: 400 !important;
+}
+.input-group input { outline: none !important; }
+.input-group .form-select:focus { outline: none !important;border-color:0 !important }
+.create_form .panel-header {
+    font-weight: 400 !important;
+    border-top: 4px solid #27367F !important;
+    border-top-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+}
+
+.input-group label { font-weight: 400 !important;text-transform: none !important }
+
+table tbody tr td {
+	color: rgb(77 77 77) !important;
+	text-align: center !important;
+	font-weight: 400 !important;
+	font-size: 14px !important;
+}
+table thead tr th {
+	color: rgb(77 77 77) !important;
+	text-align: center !important;
+	font-weight: bold !important;
+	font-size: 14px !important;
+}

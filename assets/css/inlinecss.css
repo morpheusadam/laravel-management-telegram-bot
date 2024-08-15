@@ -1,0 +1,28 @@
+.h-300px{height: 300px !important;}
+.h-200px{height: 200px !important;}
+.min-height-50px{min-height: 50px !important;}
+.min-height-450px{min-height: 425px !important}
+.min-width-40px{min-width:40px !important}
+.min-width-50px{min-width:50px !important}
+.min-width-90px{min-width: 90px !important}
+.min-width-100px{min-width:100px !important}
+.border-radius-10px{border-radius:10px !important;}
+
+.payment-api-style1{border:1px solid #eee !important;min-width:400px !important;min-height: 70px !important;}
+
+#mp-spinner{position: absolute !important;top: 0 !important;left: 0 !important;width: 100% !important;height: 100% !important;background: #ffffff !important;}
+
+.general-settings-style1{overflow-y: hidden !important;overflow-x:auto !important;height:80px !important}
+
+.transaction-log-style1{min-height: 100px;border-style: dashed;border-width: .5px;border-radius: 10px;}
+.transaction-log-style2{font-size: 14px !important;}
+.transaction-log-style3{font-size: 20px !important;}
+.transaction-log-style4{font-size: 35px !important;color: var(--blue);}
+
+
+.buy-package-style1{font-size: 20px !important;}
+.buy-package-style2{font-size: 35px !important;color: var(--blue) !important;}
+.buy-package-style3{height: 210px !important;}
+
+.stat-style1{min-height: 100px !important;border-style: dashed !important;border-width: .5px !important;border-radius: 10px !important;}
+.stat-style2{padding:3px 6px !important}

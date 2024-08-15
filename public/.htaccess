@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Rewrite requests to the public directory to the document root
+RewriteCond %{REQUEST_URI} ^/public/
+RewriteCond %{REQUEST_URI} !^/public/storage/
+RewriteRule ^(.*)$ /$1 [L]
+
+# Rewrite requests to the document root to the public directory
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
+

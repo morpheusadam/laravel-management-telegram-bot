@@ -1,0 +1,45 @@
+.form-group label {
+    margin-bottom: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.dropdown-toggle.no_caret::after{content: none !important;}
+
+.mini_dropdown{padding:8px 0;top:-11px !important;border:.5px solid #394EE5;}
+.mini_dropdown .btn{margin-right: 4px;}
+.mini_dropdown .btn:last-child{margin-right: 0px;}
+
+.nav-tabs .nav-item .nav-link {
+  color: #6777ef; }
+  .nav-tabs .nav-item .nav-link.active {
+    color: #000; }
+
+.tab-bordered .tab-pane {
+  padding: 15px;
+  border: 1px solid #ededed;
+  margin-top: -1px; }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #6777ef; }
+
+.nav-pills .nav-item .nav-link {
+  color: #6777ef;
+  padding-left: 15px !important;
+  padding-right: 15px !important; }
+  .nav-pills .nav-item .nav-link:hover {
+    background-color: #f6f7fe; }
+  .nav-pills .nav-item .nav-link.active {
+    box-shadow: 0 2px 6px #acb5f6;
+    color: #fff;
+    background-color: #6777ef; }
+  .nav-pills .nav-item .nav-link .badge {
+    padding: 5px 8px;
+    margin-left: 5px; }
+
+.nav .nav-item .nav-link .ion, .nav .nav-item .nav-link .fas, .nav .nav-item .nav-link .far, .nav .nav-item .nav-link .fab, .nav .nav-item .nav-link .fal {
+  margin-right: 3px;
+  font-size: 12px; }
+  .pointer { cursor: pointer !important; }

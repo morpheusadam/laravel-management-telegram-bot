@@ -1,0 +1,32 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Allow access to index.php
+    RewriteRule ^index\.php$ - [L]
+
+    # Block access to other PHP files
+    RewriteRule \.(php|env|lock|log|example|md|gitignore|gitattributes)$ - [F]
+    RewriteRule composer\.(json)$ - [F]
+    RewriteRule package\.(json)$ - [F]
+    RewriteRule package-lock\.(json)$ - [F]
+    RewriteRule my_cookie\.(txt)$ - [F]
+    RewriteRule my_cookie1\.(txt)$ - [F]
+    RewriteRule build\.(txt)$ - [F]
+    RewriteRule build-type\.(txt)$ - [F]
+    RewriteRule licence\.(txt)$ - [F]
+    RewriteRule licence_type\.(txt)$ - [F]
+
+    # Allow access to other URLs
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php [L]
+
+    # Force HTTPS
+    #RewriteCond %{HTTPS} !=on
+    #RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # Handle Authorization Header
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+</IfModule>

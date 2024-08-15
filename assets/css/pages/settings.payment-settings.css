@@ -1,0 +1,11 @@
+.note-toolbar { height: 90px !important; }
+.note-editable { min-height: 155px !important;max-height: 300px !important; }
+.note-btn.btn-sm { padding: 0.4rem 0.6rem !important; }
+.note-toolbar .note-btn {
+    font-size: 12px;
+    background-color: transparent;
+    box-shadow: none;
+    border-color: transparent;
+}
+.btn-light { color: #000 !important; }
+.note-editable { padding-top:10px !important; }
